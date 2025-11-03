@@ -1,0 +1,180 @@
+{
+  "nav": {
+    "prizes": "Sovrinlar",
+    "rules": "Qoidalar",
+    "contacts": "Aloqa",
+    "how": "Ishtirok etish tartibi",
+    "winners": "G‘oliblar"
+  },
+
+  "hero": {
+    "badge": "Asterium tanlovi",
+    "badge_hint": "boy bermang",
+    "title": "Asterium Card: O‘zingizcha to‘lang, yirik g‘alabani qo‘lga kiriting!",
+    "subtitle": "Ro‘yxatdan o‘ting, Asterium kartasini kundalik hayotda ishlating va 1 ETH yutib olish imkoniyatiga ega bo‘ling!",
+    "ended": "Tanlov yakunlandi.",
+    "counts_until": "Tugashiga qolgan vaqt"
+  },
+  "timer": {
+    "days": "Kun",
+    "hours": "Soat",
+    "minutes": "Daqiqa",
+    "seconds": "Soniya",
+    "d_short": "k",
+    "h_short": "s",
+    "m_short": "d"
+  },
+  "cta": {
+    "participate": "Tanlovda ishtirok etish",
+    "download": "Ilovani yuklab oling"
+  },
+  "participate": {
+    "title": "Ishtirok etish shakli",
+    "fields": {
+      "name": {
+        "label": "Ism va familiya",
+        "placeholder": "Masalan, Otabek Islamov"
+      },
+      "email": {
+        "label": "E-mail",
+        "placeholder": "you(at)example.com"
+      },
+      "phone": {
+        "label": "Telefon",
+        "placeholder_uz": "+998 90 123 45 67",
+        "placeholder_intl": "+1 555 123 4567"
+      },
+      "agree": {
+        "label": "Ishtirok shartlari va ma'lumotlarni qayta ishlashga roziman"
+      }
+    },
+    "actions": {
+      "cancel": "Bekor qilish",
+      "submit": "Yuborish",
+      "submitting": "Yuborilmoqda…"
+    },
+    "errors": {
+      "required": "Bu maydon to‘ldirilishi shart",
+      "invalid_email": "Noto‘g‘ri e-mail manzil",
+      "invalid_phone_uz": "Raqam formati +998XXXXXXXXX bo‘lishi kerak",
+      "invalid_phone_intl": "Telefon raqamini xalqaro formatda kiriting, masalan: +15551234567",
+      "must_agree": "Shartlarga rozilik berishingiz kerak"
+    }
+  },
+  "footer": {
+    "menu": {
+      "about": "Platforma haqida",
+      "forUser": "Foydalanuvchilar uchun",
+      "docs": "Hujjatlar"
+    },
+    "links": {
+      "products": "Mahsulotlar",
+      "ecosystem": "Ekotizim",
+      "support": "Yordam",
+      "kb": "Bilimlar bazasi",
+      "faq": "FAQ",
+      "license": "Litsenziya"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "telegram": "Telegram",
+      "linkedin": "LinkedIn"
+    },
+    "slogan": "Qo‘rquvsiz kripto-aktivlar. Litsenziyaga ega va himoyalangan platforma",
+    "copyright": "© 2025 Asterium. O‘zbekiston. Barcha huquqlar himoyalangan."
+  },
+  "prizes": {
+    "title": "Sovg‘alar ro‘yxati",
+    "subtitle": "Bitta karta — cheksiz imkoniyatlar. Asterium kartasi bilan kundalik xarajatlaringizni iPhone 17 Pro Max’ga aylantiring",
+    "list": [
+      {
+        "place": "1-o‘rin",
+        "title": "1 ETH",
+        "description": "Biz abstraksiya emas — to‘liq kripto aktiv birligini sovg‘a qilamiz (narxini Google’da qidiring). Bu saqlash, sotish yoki kundalik xaridlar uchun ishlatish mumkin bo‘lgan aktiv. Bu shunchaki sovg‘a emas, bu sizning yangi moliyaviy bobingizning boshlanishi.",
+        "imageAlt": "1 ETH"
+      },
+      {
+        "place": "2-o‘rin",
+        "title": "iPhone 17 Pro Max",
+        "description": "Ikkinchi o‘rinni egallaysiz, lekin smartfoningiz zo‘rlik bo‘yicha birinchi bo‘ladi. iPhone 17 Pro Max — bu shunchaki telefon emas, bu status, kontent uchun eng kuchli kamera va har qanday vazifa uchun eng tezkor protsessor.",
+        "imageAlt": "iPhone 17 Pro Max"
+      },
+      {
+        "place": "3-o‘rin",
+        "title": "Asterium merch qutisi",
+        "description": "Merch qutisini sotib bo‘lmaydi — uni faqat loyiq bo‘lib olish mumkin. Ichida: Asterium ramzlari bilan maxsus yaratilgan kolleksion buyumlar. Siz oddiy narsalar emas, balki kompaniyamiz falsafasining bir qismi va eng yaxshilar qatorida bo‘lgan odam statusini olasiz.",
+        "imageAlt": "Asterium merch qutisi"
+      },
+      {
+        "place": "4–10-o‘rinlar",
+        "title": "Visa Platinum + har biriga 100 HUMO",
+        "description": "Vaqt sinovidan o‘tgan vosita — Visa Platinum kundalik xarajatlar uchun va balansingizga 100 HUMO tokeni. «Zamonaviy moliya» degan tanganing ikki tomoni. Ikkalasi bilan ham aqlli boshqaring.",
+        "imageAlt": "Asterium Visa karta"
+      },
+      {
+        "place": "11–25-o‘rinlar",
+        "title": "Har biriga 50 HUMO",
+        "description": "Har bir katta yo‘l birinchi qadamdan boshlanadi, har bir katta portfel esa birinchi tokendan. Biz sizga shunchaki 50 HUMO emas — raqamli aktivlar dunyosidagi shaxsiy kripto hikoyangizning boshlanishini beramiz.",
+        "imageAlt": "HUMO bonus"
+      }
+    ]
+  },
+  "how": {
+    "title": "Qanday qatnashish mumkin?",
+    "subtitle": "4 ta oddiy qadamni bajaring va sovg‘a o‘yini ishtirokchisiga aylaning.",
+    "cta": "Aksiyada qatnashish",
+    "stepCta": "O‘tish",
+    "steps": [
+      {
+        "title": "Asterium ilovasini yuklab oling yoki veb-versiya orqali ro‘yxatdan o‘ting va Etherium promo-kodi bilan hamyon oching",
+        "desc": ""
+      },
+      {
+        "title": "Hisobingizni KYC 1 va KYC 2 dan o‘tkazib himoyalang",
+        "desc": "Shaxsingizni tasdiqlang va aktivlaringizni 2FA (Google Authenticator) yordamida himoya qiling"
+      },
+      {
+        "title": "Asterium Humo Daily jismoniy kartasini buyurtma qiling",
+        "desc": "Kartani to‘g‘ridan-to‘g‘ri ilovada rasmiylashtiring — tez, qulay va ishonchli."
+      },
+      {
+        "title": "Asterium HUMO Daily orqali har bir xarid va ilovada sharh uchun ball to‘plang",
+        "desc": "O‘zbekiston bo‘ylab HUMO terminallari orqali Asterium HUMO Daily kartangiz bilan tovar va xizmatlar uchun to‘lang — har 1 USDT uchun ball oling. Play Market yoki App Store’da sharh uchun +10 ball."
+      }
+    ]
+  },
+  "points": {
+    "title": "Ballar qanday hisoblanadi?",
+    "items": [
+      {
+        "title": "1 USDT = 1 ball",
+        "desc": "Asterium HUMO Daily kartasi orqali har 1 USDT sarflanganda"
+      },
+      {
+        "title": "+10 ball",
+        "desc": "AppStore yoki Play Market’da sharh qoldirganda"
+      },
+      {
+        "title": "+50 ball",
+        "desc": "Asterium kripto almashuvchisida har bir almashuv uchun (summa farqi yo‘q)"
+      }
+    ]
+  },
+  "winners": {
+    "title": "G‘oliblar jadvali",
+    "refresh": "Yangilash",
+    "ended": {
+      "title": "Tanlov yakunlari",
+      "desc": "Natijalar tasdiqlandi. Ishtirokingiz uchun rahmat!"
+    },
+    "table": {
+      "rank": "O‘rin",
+      "user": "Ishtirokchi",
+      "points": "Ballar",
+      "prize": "Sovrin"
+    },
+    "footer": "25 g‘olib orasidan faqat TOP-10 ko‘rsatilgan.",
+    "loading": "Ro‘yxat yangilanmoqda…",
+    "error": "Ma’lumotlarni yuklab bo‘lmadi. Vaqtinchalik natijalar ko‘rsatilmoqda."
+  }
+}

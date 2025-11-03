@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "prizes": "Prizes",
+    "rules": "Rules",
+    "contacts": "Contacts",
+    "how": "How to participate",
+    "winners": "Winners"
+  },
+  "hero": {
+    "badge": "Asterium Raffle",
+    "badge_hint": "don’t miss it",
+    "title": "Asterium Card: Pay your way, win big!",
+    "subtitle": "Sign up, use the Asterium card in everyday life, and get a chance to win 1 ETH!",
+    "ended": "The raffle has ended.",
+    "counts_until": "Time left"
+  },
+  "timer": {
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "d_short": "d",
+    "h_short": "h",
+    "m_short": "m"
+  },
+  "cta": {
+    "participate": "Join the raffle",
+    "download": "Download the app"
+  },
+  "participate": {
+    "title": "Participation form",
+    "fields": {
+      "name": {
+        "label": "Full name",
+        "placeholder": "e.g., Ivan Ivanov"
+      },
+      "email": {
+        "label": "E-mail",
+        "placeholder": "you(at)example.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder_uz": "+998 90 123 45 67",
+        "placeholder_intl": "+1 555 123 4567"
+      },
+      "agree": {
+        "label": "I agree to the terms and data processing"
+      }
+    },
+    "actions": {
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "submitting": "Submitting…"
+    },
+    "errors": {
+      "required": "This field is required",
+      "invalid_email": "Invalid e-mail address",
+      "invalid_phone_uz": "The number must be in the format +998XXXXXXXXX",
+      "invalid_phone_intl": "Enter a phone number in international format, e.g. +15551234567",
+      "must_agree": "You must agree to the terms"
+    }
+  },
+  "footer": {
+    "menu": {
+      "about": "About",
+      "forUser": "For users",
+      "docs": "Documents"
+    },
+    "links": {
+      "products": "Products",
+      "ecosystem": "Ecosystem",
+      "support": "Support",
+      "kb": "Knowledge base",
+      "faq": "FAQ",
+      "license": "License"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "telegram": "Telegram",
+      "linkedin": "LinkedIn"
+    },
+    "slogan": "Crypto assets without fear. A legal platform with licensing and protection",
+    "copyright": "© 2025 Asterium. Uzbekistan. All rights reserved."
+  },
+  "prizes": {
+    "title": "Raffle Prizes",
+    "subtitle": "One card — endless possibilities. Turn your everyday spending into an iPhone 17 Pro Max with the Asterium card",
+    "list": [
+      {
+        "place": "1st place",
+        "title": "1 ETH",
+        "description": "We're not giving away an abstraction — we're giving a full unit of crypto asset (Google the price). This is an asset you can store, sell, or use for everyday purchases. It's not just a prize, it's the start of your new financial chapter.",
+        "imageAlt": "1 ETH"
+      },
+      {
+        "place": "2nd place",
+        "title": "iPhone 17 Pro Max",
+        "description": "You take second place, but your smartphone will be first in awesomeness. iPhone 17 Pro Max — it's not just a phone, it's status, the most powerful camera for content, and the fastest processor for any task.",
+        "imageAlt": "iPhone 17 Pro Max"
+      },
+      {
+        "place": "3rd place",
+        "title": "Asterium Merch Box",
+        "description": "The merch box can't be bought — it can only be earned. Inside: collectible items with Asterium branding, created exclusively for winners. You get not just things, but a piece of our company philosophy and the status of someone who was among the best.",
+        "imageAlt": "Asterium merch box"
+      },
+      {
+        "place": "4th–10th places",
+        "title": "Visa Platinum + 100 HUMO each",
+        "description": "A time-tested tool — Visa Platinum for daily spending and 100 HUMO tokens to your balance. Two sides of the same coin called “Modern Finance.” Manage both wisely.",
+        "imageAlt": "Asterium Visa card"
+      },
+      {
+        "place": "11th–25th places",
+        "title": "50 HUMO each",
+        "description": "Every great journey starts with a single step, and every big portfolio starts with the first token. We're giving you not just 50 HUMO — we're giving you the beginning of your personal crypto story in the world of digital assets.",
+        "imageAlt": "HUMO bonus"
+      }
+    ]
+  },
+  "how": {
+    "title": "How to participate?",
+    "subtitle": "Complete 4 simple steps and join the giveaway.",
+    "cta": "Join the campaign",
+    "stepCta": "Go",
+    "steps": [
+      {
+        "title": "Download the Asterium app or register via web version and open a wallet using promo code Etherium",
+        "desc": ""
+      },
+      {
+        "title": "Secure your account by completing KYC 1 and KYC 2",
+        "desc": "Verify your identity and protect your assets with 2FA (Google Authenticator)"
+      },
+      {
+        "title": "Order the physical Asterium Humo Daily card",
+        "desc": "Get your card directly in the app — fast, easy, and secure."
+      },
+      {
+        "title": "Earn points with every purchase using Asterium HUMO Daily and for app reviews",
+        "desc": "Pay for goods and services across Uzbekistan via HUMO terminals with your Asterium HUMO Daily card — get points for every 1 USDT spent. +10 points for a review in Play Market or App Store."
+      }
+    ]
+  },
+  "points": {
+    "title": "How points are earned",
+    "items": [
+      {
+        "title": "1 USDT = 1 point",
+        "desc": "For every 1 USDT spent with the Asterium HUMO Daily card"
+      },
+      {
+        "title": "+10 points",
+        "desc": "For leaving a review on AppStore or Play Market"
+      },
+      {
+        "title": "+50 points",
+        "desc": "For every exchange at Asterium crypto exchanger (regardless of amount)"
+      }
+    ]
+  },
+  "winners": {
+    "title": "Current Winners Table",
+    "refresh": "Refresh",
+    "ended": {
+      "title": "Raffle Results",
+      "desc": "The results are finalized. Thank you for participating!"
+    },
+    "table": {
+      "rank": "Rank",
+      "user": "Participant",
+      "points": "Points",
+      "prize": "Prize"
+    },
+    "footer": "Showing only the Top 10 out of 25 winners.",
+    "loading": "Updating list…",
+    "error": "Failed to load data. Showing temporary results."
+  }
+}

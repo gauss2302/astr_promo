@@ -1,0 +1,14 @@
+/* assets/css/main.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Доп стили для подложки + блок на прокрутку за страницей */
+html,
+body,
+#__nuxt {
+  height: 100%;
+  background-color: #070708;
+  color: #ffffff;
+  overscroll-behavior: none;
+}
